@@ -26,7 +26,7 @@ public class PriceCatalog {
 		priceMap.put("bike", "66000");
 		priceMap.put("scooter", "26000");
 		priceMap.put("pant", "100");
-		
+		// end of map
 		
 		
 	}
