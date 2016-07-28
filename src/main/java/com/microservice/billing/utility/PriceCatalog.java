@@ -22,6 +22,7 @@ public class PriceCatalog {
 		priceMap.put("ac", "30000");
 		priceMap.put("smartphone", "14000");
 		priceMap.put("radio", "2000");
+		priceMap.put("musicbox", "20000");
 		
 		
 	}
